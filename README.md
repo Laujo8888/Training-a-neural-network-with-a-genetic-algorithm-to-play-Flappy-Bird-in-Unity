@@ -24,11 +24,14 @@ https://github.com/user-attachments/assets/b4bf75e7-f797-4106-a86f-2b857b4bb10e
 
 
 
+## how to use it
+First of all Unity and the tools in accordance need to be installed (This project was created in Unity 6000.0.35f1, so there might be the need to download another version).
 
+Move where you want to copy the repo to with ```cd YOURPATH``` 
 
+Then simply run ```git clone https://github.com/Laujo8888/Training-a-neural-network-with-a-genetic-algorithm-to-play-Flappy-Bird-in-Unity ```
 
-
-
+Afterwards open the Unity Hub and under "Add", "Add project from disk" and select the freshly copied repo and open it in the Hub. 
 
 
 ## general
